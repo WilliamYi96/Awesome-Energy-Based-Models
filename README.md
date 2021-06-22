@@ -102,4 +102,4 @@ Selected papers I've read in the field of zero shot learning. Not a complete lis
 + Equilibrium Propagation: Bridging the Gap between Energy-Based Models and Backpropagation. Benjamin Scellier, Yoshua Bengio. Front. Comput. Neurosci. 2017.
 + Reinforcement Learning with Deep Energy-Based Policies. Tuomas Haarnoja, Haoran Tang, Pieter Abbeel, Sergey Levine. ICML 2017.
 
-Note: More papers much earlier is not calculated. May try to add some later.
+Note: More papers much earlier are not calculated. May try to add some later.

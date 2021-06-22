@@ -8,8 +8,8 @@ Selected papers I've read in the field of zero shot learning. Not a complete lis
 
 ### Papers      
 #### arXiv
-+ Learning Equivariant Energy Based Models with Equivariant Stein Variational Gradient Descent. Priyank Jaini, Lars Holdijk, Max Welling. (2106)
-+ On Energy-Based Models with Overparametrized Shallow Neural Networks. Carles Domingo-Enrich, Alberto Bietti, Eric Vanden-Eijnden, Joan Bruna. (2104)
++ **ESVGD**: Learning Equivariant Energy Based Models with Equivariant Stein Variational Gradient Descent. Priyank Jaini, Lars Holdijk, Max Welling. (2106) [[paper]]
++ **Shallow-NN**: On Energy-Based Models with Overparametrized Shallow Neural Networks. Carles Domingo-Enrich, Alberto Bietti, Eric Vanden-Eijnden, Joan Bruna. (2104) [[https://arxiv.org/abs/2104.07531]](https://arxiv.org/abs/2104.07531) [[code]](https://github.com/CDEnrich/ebms_shallow_nn)
 + How to Train Your Energy-Based Models. Yang Song, Diederik P. Kingma. (2101)
 + Maximum Likelihood Training of Score-Based Diffusion Models Yang Song, Conor Durkan, Iain Murray, Stefano Ermon. (2101)
 + SE(3)-Equivariant Energy-based Models for End-to-End Protein Folding. Jiaxiang Wu, Tao Shen, Haidong Lan, Yatao Bian, Junzhou Huang. (2106-biorxiv)

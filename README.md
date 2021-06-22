@@ -62,6 +62,7 @@ Selected papers I've read in the field of zero shot learning. Not a complete lis
 + Improved Techniques for Training Score-Based Generative Models. Yang Song, Stefano Ermon.
 + Unsupervised Joint k-node Graph Representations with Compositional Energy-Based Models. Leonardo Cotta, Carlos H. C. Teixeira, Ananthram Swami, Bruno Ribeiro.
 + Learning Latent Space Energy-Based Prior Model. Bo Pang, Tian Han, Erik Nijkamp, Song-Chun Zhu, Ying Nian Wu.
++ Efficient Learning of Generative Models via Finite-Difference Score Matching. Tianyu Pang, Kun Xu, Chongxuan Li, Yang Song, Stefano Ermon, Jun Zhu. [[paper]](https://arxiv.org/abs/2007.03317)
 #### ECCV 2020
 + Energy-Based Models for Deep Probabilistic Regression. Fredrik K. Gustafsson, Martin Danelljan, Goutam Bhat, Thomas B. Schön.
 + How to Train Your Energy-Based Model for Regression (together, BMVC20). Fredrik K. Gustafsson, Martin Danelljan, Radu Timofte, Thomas B. Schön.

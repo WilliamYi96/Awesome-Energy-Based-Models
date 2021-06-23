@@ -69,7 +69,7 @@ Selected papers I've read in the field of zero shot learning. Not a complete lis
 + Learning Gradient Fields for Shape Generation (spotlight). Ruojin Cai, Guandao Yang, Hadar Averbuch-Elor, Zekun Hao, Serge Belongie, Noah Snavely, Bharath Hariharan.
 #### AISTATS 2020
 + Permutation Invariant Graph Generation via Score-Based Generative Modeling. Chenhao Niu, Yang Song, Jiaming Song, Shengjia Zhao, Aditya Grover, Stefano Ermon.
-+ A Wasserstein Minimum Velocity Approach to Learning Unnormalized Models. Ziyu Wang, Shuyu Cheng, Li Yueru, Jun Zhu, Bo Zhang.
++ **WMVL**: A Wasserstein Minimum Velocity Approach to Learning Unnormalized Models. Ziyu Wang, Shuyu Cheng, Yueru Li, Jun Zhu, Bo Zhang. [[paper]](http://proceedings.mlr.press/v108/wang20j.html) [[Code (TF)]](https://github.com/thu-ml/wmvl)
 #### CVPR 2020
 + Flow Contrastive Estimation of Energy-Based Models. Ruiqi Gao, Erik Nijkamp, Diederik P. Kingma, Zhen Xu, Andrew M. Dai, Ying Nian Wu.
 + Joint Training of Variational Auto-Encoder and Latent Energy-Based Model. Tian Han, Erik Nijkamp, Linqi Zhou, Bo Pang, Song-Chun Zhu, Ying Nian Wu.
@@ -81,11 +81,11 @@ Selected papers I've read in the field of zero shot learning. Not a complete lis
 + Meta-Learning Deep Energy-Based Memory Models. Sergey Bartunov, Jack Rae, Simon Osindero, Timothy Lillicrap.
 + Residual Energy-Based Models for Text Generation. Yuntian Deng, Anton Bakhtin, Myle Ott, Arthur Szlam, Marc'Aurelio Ranzato.
 + Energy-based models for atomic-resolution protein conformations. Yilun Du, Joshua Meier, Jerry Ma, Rob Fergus, Alexander Rives.
-+ 
+
 #### ICML 2020
 + Training Deep Energy-Based Models with f-Divergence Minimization. Lantao Yu, Yang Song, Jiaming Song, Stefano Ermon.
 + From Sets to Multisets: Provable Variational Inference for Probabilistic Integer Submodular Models. Aytunc Sahin, Yatao Bian, Joachim Buhmann, Andreas Krause.
-+ **WMVL**: A Wasserstein Minimum Velocity Approach to Learning Unnormalized Models. Ziyu Wang, Shuyu Cheng, Yueru Li, Jun Zhu, Bo Zhang. [[paper]](http://proceedings.mlr.press/v108/wang20j.html) [[Code (TF)]](https://github.com/thu-ml/wmvl)
+
 #### Before 2020
 + Generative Modeling by Estimating Gradients of the Data Distribution. Yang Song, Stefano Ermon. NeurIPS 2019 (oral).
 + Learning deep kernels for exponential family densities. Li Wenliang, Danica J. Sutherland, Heiko Strathmann, Arthur Gretton. ICML 2019.

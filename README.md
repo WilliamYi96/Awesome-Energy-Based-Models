@@ -85,7 +85,7 @@ Selected papers I've read in the field of zero shot learning. Not a complete lis
 #### ICML 2020
 + Training Deep Energy-Based Models with f-Divergence Minimization. Lantao Yu, Yang Song, Jiaming Song, Stefano Ermon.
 + From Sets to Multisets: Provable Variational Inference for Probabilistic Integer Submodular Models. Aytunc Sahin, Yatao Bian, Joachim Buhmann, Andreas Krause.
-
++ **WMVL**: A Wasserstein Minimum Velocity Approach to Learning Unnormalized Models. Ziyu Wang, Shuyu Cheng, Yueru Li, Jun Zhu, Bo Zhang. [[paper]](http://proceedings.mlr.press/v108/wang20j.html) [[Code (TF)]](https://github.com/thu-ml/wmvl)
 #### Before 2020
 + Generative Modeling by Estimating Gradients of the Data Distribution. Yang Song, Stefano Ermon. NeurIPS 2019 (oral).
 + Learning deep kernels for exponential family densities. Li Wenliang, Danica J. Sutherland, Heiko Strathmann, Arthur Gretton. ICML 2019.

@@ -92,7 +92,7 @@ Selected papers I've read in the field of zero shot learning. Not a complete lis
 + Optimal Continuous DR-Submodular Maximization and Applications to Provable Mean Field Inference. Yatao Bian, Joachim Buhmann, Andreas Krause. ICML 2019.
 + Implicit Generation and Modeling with Energy Based Models. Yilun Du, Igor Mordatch. NeurIPS 2019.
 + Learning Non-Convergent Non-Persistent Short-Run MCMC Toward Energy-Based Model. Erik Nijkamp, Mitch Hill, Song-Chun Zhu, Ying Nian Wu. NeurIPS 2019.
-+ Exponential Family Estimation via Adversarial Dynamics Embedding. Bo Dai, Zhen Liu, Hanjun Dai, Niao He, Arthur Gretton, Le Song, Dale Schuurmans. NeurIPS 2019. [[paper]](https://arxiv.org/abs/1904.12083) [[Code (TF)]](https://github.com/lzzcd001/ade-code)
++ **ADE**: Exponential Family Estimation via Adversarial Dynamics Embedding. Bo Dai, Zhen Liu, Hanjun Dai, Niao He, Arthur Gretton, Le Song, Dale Schuurmans. NeurIPS 2019. [[paper]](https://arxiv.org/abs/1904.12083) [[Code (TF)]](https://github.com/lzzcd001/ade-code)
 + Concept Learning with Energy-Based Models. Igor Mordatch. arXiv 1811.
 + Cooperative Training of Descriptor and Generator Networks. Jianwen Xie, Yang Lu, Ruiqi Gao, Song-Chun Zhu, Ying Nian Wu. arXiv 1609.
 + Learning Generative ConvNets via Multi-grid Modeling and Sampling. Ruiqi Gao, Yang Lu, Junpei Zhou, Song-Chun Zhu, Ying Nian Wu. CVPR 2018.

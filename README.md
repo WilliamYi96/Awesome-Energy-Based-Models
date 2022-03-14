@@ -17,6 +17,11 @@ Selected papers I've read in the field of zero shot learning. Not a complete lis
 + Hybrid Discriminative-Generative Training via Contrastive Learning. Hao Liu, Pieter Abbeel. (2007)
 + Denoising Diffusion Probabilistic Models. Jonathan Ho, Ajay Jain, Pieter Abbeel. (2006)
 + Energy-Based Models for Continual Learning. Shuang Li, Yilun Du, Gido M. van de Ven, Igor Mordatch. (2011)
+
+#### ICLR 2022
++ SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations. ICLR, 2022.
++ Score-Based Generative Modeling with Critically-Damped Langevin Diffusion. ICLR, 2022.
+
 #### ICML 2021
 + Latent Space Energy-Based Model of Symbol-Vector Coupling for Text Generation and Classification. Bo Pang, Ying Nian Wu. 
 + Variational (Gradient) Estimate of the Score Function in Energy-based Latent Variable Models. Fan Bao, Kun Xu, Chongxuan Li, Lanqing Hong, Jun Zhu, Bo Zhang. 
